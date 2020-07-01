@@ -3,7 +3,7 @@ Backend
 -------
 1.) Unzip bookstore.zip to c:\springworkspace folder.
 
-2.) go to c:\springworkspace\bookstore path in the command prompt.
+2.) go to c:\springworkspace\bookstore-master path in the command prompt.
 
 3.) run the command "mvn clean install".
 
