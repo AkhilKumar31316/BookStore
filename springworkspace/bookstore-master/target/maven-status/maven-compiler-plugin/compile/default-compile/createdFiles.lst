@@ -1,0 +1,16 @@
+com\example\bookstore\domain\Author.class
+com\example\bookstore\SpringBookstoreApplication.class
+com\example\bookstore\domain\Book.class
+com\example\bookstore\input\BookStore.class
+com\example\bookstore\controller\AuthorController.class
+com\example\bookstore\input\Title.class
+com\example\bookstore\repository\AuthorRepository.class
+com\example\bookstore\dto\BookDTO.class
+com\example\bookstore\input\AuthorsCriteria.class
+com\example\bookstore\input\BookCriteria.class
+com\example\bookstore\controller\BooksController.class
+com\example\bookstore\input\AuthorCriteria.class
+com\example\bookstore\repository\BookRepository.class
+com\example\bookstore\dto\AuthorDTO.class
+com\example\bookstore\input\BooksCriteria.class
+com\example\bookstore\utility\Utility.class
