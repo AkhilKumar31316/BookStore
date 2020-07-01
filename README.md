@@ -1,6 +1,4 @@
-
-Steps :
-The project consists of backend and frontend. First we will get the backend up and running and then front end
+"Steps : The project consists of backend and frontend. First we will get the backend up and running and then front end Backend".
 Backend
 -------
 1.) Unzip bookstore.zip to c:\springworkspace folder.
